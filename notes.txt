@@ -1,5 +1,9 @@
 git init // for initializing repository
 git add <file>
 git commit -m "your commit message"
+<<<<<<< HEAD
 get reset --soft Head~1
 get reset --hart Head~1
+=======
+get reset --soft Head~1
+>>>>>>> parent of 4361ad1 (notes correctly changed)
